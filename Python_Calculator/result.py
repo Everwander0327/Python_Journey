@@ -1,5 +1,5 @@
 # Import the 'process' module where the core calculator functions are implemented
-import process
+from Python_Calculator import process
 # Import colorama for colored console output
 from colorama import Fore, Style, init
 # Initialize colorama to enable ANSI color codes in terminal
